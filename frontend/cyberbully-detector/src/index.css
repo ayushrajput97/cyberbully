@@ -1,0 +1,80 @@
+/* ./src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===============================
+   Global Reset + Custom Styles
+   =============================== */
+
+/* Reset all browser default spacing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Base theme setup */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #ffffff;
+  background: linear-gradient(180deg, #c6b2d9 0%, #a98fc6 100%);
+  min-height: 100vh;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+body,
+#root {
+  min-height: 100vh;
+  width: 100%;
+  background: inherit;
+  overflow-x: hidden;
+}
+
+/* Links */
+a {
+  font-weight: 500;
+  color: #a2b6ff;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffffff;
+}
+
+/* Buttons */
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  color: white;
+  transition: all 0.3s ease;
+}
+button:hover {
+  background: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+button:focus,
+button:focus-visible {
+  outline: 3px solid rgba(255, 255, 255, 0.3);
+}
+
+/* No white background in light mode */
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #ffffff;
+    background: linear-gradient(180deg, #c6b2d9 0%, #a98fc6 100%);
+  }
+}
