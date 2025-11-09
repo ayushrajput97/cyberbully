@@ -1,0 +1,1001 @@
+post_id,user_id,text,label
+p0001,u101,Wishing you all the best in your exams.,non-bullying
+p0002,u102,"You’re a joke, nobody cares about you.",bullying
+p0003,u103,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0004,u104,"Just disappear, nobody will miss you.",bullying
+p0005,u105,Wishing you all the best in your exams.,non-bullying
+p0006,u106,"You’re such a loser, nobody likes you.",bullying
+p0007,u107,"Great job on your project, well done!",non-bullying
+p0008,u108,"You're annoying, everyone hates you.",bullying
+p0009,u109,Thanks for helping me yesterday!,non-bullying
+p0010,u110,"You’re a joke, nobody cares about you.",bullying
+p0011,u111,"Nice work team, proud of you!",non-bullying
+p0012,u112,You're ugly and worthless.,bullying
+p0013,u113,Congrats on your success! Keep shining.,non-bullying
+p0014,u114,"You’re a joke, nobody cares about you.",bullying
+p0015,u115,Congrats on your success! Keep shining.,non-bullying
+p0016,u116,Why are you always so dumb?,bullying
+p0017,u117,"Great job on your project, well done!",non-bullying
+p0018,u118,"Just disappear, nobody will miss you.",bullying
+p0019,u119,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0020,u120,Nobody wants to be around you.,bullying
+p0021,u121,Congrats on your success! Keep shining.,non-bullying
+p0022,u122,"You're annoying, everyone hates you.",bullying
+p0023,u123,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0024,u124,You're nothing but a failure.,bullying
+p0025,u125,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0026,u126,"Nobody respects you, just stop.",bullying
+p0027,u127,"Nice work team, proud of you!",non-bullying
+p0028,u128,"You’re such a loser, nobody likes you.",bullying
+p0029,u129,"That was an amazing performance, bravo!",non-bullying
+p0030,u130,"Pathetic, you should just quit.",bullying
+p0031,u131,You are really talented and hardworking.,non-bullying
+p0032,u132,You're nothing but a failure.,bullying
+p0033,u133,Congrats on your success! Keep shining.,non-bullying
+p0034,u134,Nobody wants to be around you.,bullying
+p0035,u135,Wishing you all the best in your exams.,non-bullying
+p0036,u136,"You're annoying, everyone hates you.",bullying
+p0037,u137,"That was an amazing performance, bravo!",non-bullying
+p0038,u138,"Just disappear, nobody will miss you.",bullying
+p0039,u139,"Keep going, you’re doing amazing!",non-bullying
+p0040,u140,You're nothing but a failure.,bullying
+p0041,u141,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0042,u142,You're ugly and worthless.,bullying
+p0043,u143,Congrats on your success! Keep shining.,non-bullying
+p0044,u144,Nobody wants to be around you.,bullying
+p0045,u145,Congrats on your success! Keep shining.,non-bullying
+p0046,u146,"Just disappear, nobody will miss you.",bullying
+p0047,u147,"Keep going, you’re doing amazing!",non-bullying
+p0048,u148,"Just disappear, nobody will miss you.",bullying
+p0049,u149,Wishing you all the best in your exams.,non-bullying
+p0050,u150,"You’re a joke, nobody cares about you.",bullying
+p0051,u151,Your positivity inspires everyone around you.,non-bullying
+p0052,u152,Why are you always so dumb?,bullying
+p0053,u153,"Great job on your project, well done!",non-bullying
+p0054,u154,"You're annoying, everyone hates you.",bullying
+p0055,u155,You are really talented and hardworking.,non-bullying
+p0056,u156,You're nothing but a failure.,bullying
+p0057,u157,Thanks for helping me yesterday!,non-bullying
+p0058,u158,"You’re such a loser, nobody likes you.",bullying
+p0059,u159,You are really talented and hardworking.,non-bullying
+p0060,u160,"Just disappear, nobody will miss you.",bullying
+p0061,u161,You are really talented and hardworking.,non-bullying
+p0062,u162,"You’re such a loser, nobody likes you.",bullying
+p0063,u163,You are really talented and hardworking.,non-bullying
+p0064,u164,"You’re a joke, nobody cares about you.",bullying
+p0065,u165,"That was an amazing performance, bravo!",non-bullying
+p0066,u166,"You're annoying, everyone hates you.",bullying
+p0067,u167,You are really talented and hardworking.,non-bullying
+p0068,u168,"You’re a joke, nobody cares about you.",bullying
+p0069,u169,Congrats on your success! Keep shining.,non-bullying
+p0070,u170,You're ugly and worthless.,bullying
+p0071,u171,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0072,u172,"Just disappear, nobody will miss you.",bullying
+p0073,u173,Thanks for helping me yesterday!,non-bullying
+p0074,u174,You're ugly and worthless.,bullying
+p0075,u175,Wishing you all the best in your exams.,non-bullying
+p0076,u176,Nobody wants to be around you.,bullying
+p0077,u177,"Nice work team, proud of you!",non-bullying
+p0078,u178,Nobody wants to be around you.,bullying
+p0079,u179,"Great job on your project, well done!",non-bullying
+p0080,u180,You're nothing but a failure.,bullying
+p0081,u181,Thanks for helping me yesterday!,non-bullying
+p0082,u182,"Nobody respects you, just stop.",bullying
+p0083,u183,"That was an amazing performance, bravo!",non-bullying
+p0084,u184,Nobody wants to be around you.,bullying
+p0085,u185,"Keep going, you’re doing amazing!",non-bullying
+p0086,u186,You're ugly and worthless.,bullying
+p0087,u187,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0088,u188,"You’re such a loser, nobody likes you.",bullying
+p0089,u189,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0090,u190,Nobody wants to be around you.,bullying
+p0091,u191,Your positivity inspires everyone around you.,non-bullying
+p0092,u192,You're nothing but a failure.,bullying
+p0093,u193,"That was an amazing performance, bravo!",non-bullying
+p0094,u194,Nobody wants to be around you.,bullying
+p0095,u195,"Keep going, you’re doing amazing!",non-bullying
+p0096,u196,Nobody wants to be around you.,bullying
+p0097,u197,"Keep going, you’re doing amazing!",non-bullying
+p0098,u198,"You're annoying, everyone hates you.",bullying
+p0099,u199,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0100,u200,"You’re a joke, nobody cares about you.",bullying
+p0101,u201,"Nice work team, proud of you!",non-bullying
+p0102,u202,"Pathetic, you should just quit.",bullying
+p0103,u203,"Nice work team, proud of you!",non-bullying
+p0104,u204,"You’re a joke, nobody cares about you.",bullying
+p0105,u205,Wishing you all the best in your exams.,non-bullying
+p0106,u206,You're nothing but a failure.,bullying
+p0107,u207,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0108,u208,"You're annoying, everyone hates you.",bullying
+p0109,u209,Congrats on your success! Keep shining.,non-bullying
+p0110,u210,"Just disappear, nobody will miss you.",bullying
+p0111,u211,You are really talented and hardworking.,non-bullying
+p0112,u212,You're nothing but a failure.,bullying
+p0113,u213,"Nice work team, proud of you!",non-bullying
+p0114,u214,You're nothing but a failure.,bullying
+p0115,u215,"Great job on your project, well done!",non-bullying
+p0116,u216,"You’re a joke, nobody cares about you.",bullying
+p0117,u217,Congrats on your success! Keep shining.,non-bullying
+p0118,u218,"You’re such a loser, nobody likes you.",bullying
+p0119,u219,"Nice work team, proud of you!",non-bullying
+p0120,u220,"Just disappear, nobody will miss you.",bullying
+p0121,u221,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0122,u222,"You're annoying, everyone hates you.",bullying
+p0123,u223,"Great job on your project, well done!",non-bullying
+p0124,u224,"You’re a joke, nobody cares about you.",bullying
+p0125,u225,"Keep going, you’re doing amazing!",non-bullying
+p0126,u226,"Nobody respects you, just stop.",bullying
+p0127,u227,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0128,u228,"You're annoying, everyone hates you.",bullying
+p0129,u229,"That was an amazing performance, bravo!",non-bullying
+p0130,u230,Why are you always so dumb?,bullying
+p0131,u231,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0132,u232,You're ugly and worthless.,bullying
+p0133,u233,You are really talented and hardworking.,non-bullying
+p0134,u234,"Nobody respects you, just stop.",bullying
+p0135,u235,You are really talented and hardworking.,non-bullying
+p0136,u236,You're nothing but a failure.,bullying
+p0137,u237,You are really talented and hardworking.,non-bullying
+p0138,u238,"You’re such a loser, nobody likes you.",bullying
+p0139,u239,Congrats on your success! Keep shining.,non-bullying
+p0140,u240,Why are you always so dumb?,bullying
+p0141,u241,Your positivity inspires everyone around you.,non-bullying
+p0142,u242,"Nobody respects you, just stop.",bullying
+p0143,u243,Congrats on your success! Keep shining.,non-bullying
+p0144,u244,You're ugly and worthless.,bullying
+p0145,u245,You are really talented and hardworking.,non-bullying
+p0146,u246,"You're annoying, everyone hates you.",bullying
+p0147,u247,Congrats on your success! Keep shining.,non-bullying
+p0148,u248,"Just disappear, nobody will miss you.",bullying
+p0149,u249,"That was an amazing performance, bravo!",non-bullying
+p0150,u250,"You’re a joke, nobody cares about you.",bullying
+p0151,u251,"Keep going, you’re doing amazing!",non-bullying
+p0152,u252,Nobody wants to be around you.,bullying
+p0153,u253,You are really talented and hardworking.,non-bullying
+p0154,u254,"You’re a joke, nobody cares about you.",bullying
+p0155,u255,Wishing you all the best in your exams.,non-bullying
+p0156,u256,Why are you always so dumb?,bullying
+p0157,u257,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0158,u258,"Pathetic, you should just quit.",bullying
+p0159,u259,Congrats on your success! Keep shining.,non-bullying
+p0160,u260,"You're annoying, everyone hates you.",bullying
+p0161,u261,"That was an amazing performance, bravo!",non-bullying
+p0162,u262,"You’re a joke, nobody cares about you.",bullying
+p0163,u263,"That was an amazing performance, bravo!",non-bullying
+p0164,u264,"You’re a joke, nobody cares about you.",bullying
+p0165,u265,Wishing you all the best in your exams.,non-bullying
+p0166,u266,"Nobody respects you, just stop.",bullying
+p0167,u267,Your positivity inspires everyone around you.,non-bullying
+p0168,u268,You're nothing but a failure.,bullying
+p0169,u269,"Great job on your project, well done!",non-bullying
+p0170,u270,Why are you always so dumb?,bullying
+p0171,u271,Congrats on your success! Keep shining.,non-bullying
+p0172,u272,"Pathetic, you should just quit.",bullying
+p0173,u273,Congrats on your success! Keep shining.,non-bullying
+p0174,u274,Why are you always so dumb?,bullying
+p0175,u275,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0176,u276,"You're annoying, everyone hates you.",bullying
+p0177,u277,Congrats on your success! Keep shining.,non-bullying
+p0178,u278,"You’re a joke, nobody cares about you.",bullying
+p0179,u279,"That was an amazing performance, bravo!",non-bullying
+p0180,u280,You're ugly and worthless.,bullying
+p0181,u281,"That was an amazing performance, bravo!",non-bullying
+p0182,u282,Why are you always so dumb?,bullying
+p0183,u283,Wishing you all the best in your exams.,non-bullying
+p0184,u284,"Nobody respects you, just stop.",bullying
+p0185,u285,Wishing you all the best in your exams.,non-bullying
+p0186,u286,Why are you always so dumb?,bullying
+p0187,u287,Thanks for helping me yesterday!,non-bullying
+p0188,u288,Nobody wants to be around you.,bullying
+p0189,u289,Congrats on your success! Keep shining.,non-bullying
+p0190,u290,"You’re such a loser, nobody likes you.",bullying
+p0191,u291,"Great job on your project, well done!",non-bullying
+p0192,u292,"You’re a joke, nobody cares about you.",bullying
+p0193,u293,"Keep going, you’re doing amazing!",non-bullying
+p0194,u294,"You're annoying, everyone hates you.",bullying
+p0195,u295,"That was an amazing performance, bravo!",non-bullying
+p0196,u296,Why are you always so dumb?,bullying
+p0197,u297,Congrats on your success! Keep shining.,non-bullying
+p0198,u298,You're nothing but a failure.,bullying
+p0199,u299,Your positivity inspires everyone around you.,non-bullying
+p0200,u300,Nobody wants to be around you.,bullying
+p0201,u301,"Great job on your project, well done!",non-bullying
+p0202,u302,"You’re a joke, nobody cares about you.",bullying
+p0203,u303,"That was an amazing performance, bravo!",non-bullying
+p0204,u304,Nobody wants to be around you.,bullying
+p0205,u305,"Keep going, you’re doing amazing!",non-bullying
+p0206,u306,"Nobody respects you, just stop.",bullying
+p0207,u307,Thanks for helping me yesterday!,non-bullying
+p0208,u308,Why are you always so dumb?,bullying
+p0209,u309,Your positivity inspires everyone around you.,non-bullying
+p0210,u310,"You’re such a loser, nobody likes you.",bullying
+p0211,u311,"Keep going, you’re doing amazing!",non-bullying
+p0212,u312,Nobody wants to be around you.,bullying
+p0213,u313,You are really talented and hardworking.,non-bullying
+p0214,u314,Why are you always so dumb?,bullying
+p0215,u315,"Nice work team, proud of you!",non-bullying
+p0216,u316,"Nobody respects you, just stop.",bullying
+p0217,u317,"Nice work team, proud of you!",non-bullying
+p0218,u318,You're ugly and worthless.,bullying
+p0219,u319,"Keep going, you’re doing amazing!",non-bullying
+p0220,u320,"You’re a joke, nobody cares about you.",bullying
+p0221,u321,"Great job on your project, well done!",non-bullying
+p0222,u322,"Nobody respects you, just stop.",bullying
+p0223,u323,"Great job on your project, well done!",non-bullying
+p0224,u324,"Nobody respects you, just stop.",bullying
+p0225,u325,You are really talented and hardworking.,non-bullying
+p0226,u326,"You're annoying, everyone hates you.",bullying
+p0227,u327,"That was an amazing performance, bravo!",non-bullying
+p0228,u328,Nobody wants to be around you.,bullying
+p0229,u329,"Keep going, you’re doing amazing!",non-bullying
+p0230,u330,"You're annoying, everyone hates you.",bullying
+p0231,u331,"That was an amazing performance, bravo!",non-bullying
+p0232,u332,"Pathetic, you should just quit.",bullying
+p0233,u333,"That was an amazing performance, bravo!",non-bullying
+p0234,u334,You're nothing but a failure.,bullying
+p0235,u335,Wishing you all the best in your exams.,non-bullying
+p0236,u336,You're nothing but a failure.,bullying
+p0237,u337,Thanks for helping me yesterday!,non-bullying
+p0238,u338,Why are you always so dumb?,bullying
+p0239,u339,"Nice work team, proud of you!",non-bullying
+p0240,u340,"Nobody respects you, just stop.",bullying
+p0241,u341,"That was an amazing performance, bravo!",non-bullying
+p0242,u342,Why are you always so dumb?,bullying
+p0243,u343,Wishing you all the best in your exams.,non-bullying
+p0244,u344,"Pathetic, you should just quit.",bullying
+p0245,u345,"That was an amazing performance, bravo!",non-bullying
+p0246,u346,"Just disappear, nobody will miss you.",bullying
+p0247,u347,"Keep going, you’re doing amazing!",non-bullying
+p0248,u348,"Pathetic, you should just quit.",bullying
+p0249,u349,Congrats on your success! Keep shining.,non-bullying
+p0250,u350,Nobody wants to be around you.,bullying
+p0251,u351,Your positivity inspires everyone around you.,non-bullying
+p0252,u352,"You’re a joke, nobody cares about you.",bullying
+p0253,u353,Thanks for helping me yesterday!,non-bullying
+p0254,u354,"You’re such a loser, nobody likes you.",bullying
+p0255,u355,Wishing you all the best in your exams.,non-bullying
+p0256,u356,"Just disappear, nobody will miss you.",bullying
+p0257,u357,"Great job on your project, well done!",non-bullying
+p0258,u358,Nobody wants to be around you.,bullying
+p0259,u359,"Great job on your project, well done!",non-bullying
+p0260,u360,"You're annoying, everyone hates you.",bullying
+p0261,u361,"Nice work team, proud of you!",non-bullying
+p0262,u362,You're nothing but a failure.,bullying
+p0263,u363,You are really talented and hardworking.,non-bullying
+p0264,u364,You're ugly and worthless.,bullying
+p0265,u365,"Great job on your project, well done!",non-bullying
+p0266,u366,"Just disappear, nobody will miss you.",bullying
+p0267,u367,Wishing you all the best in your exams.,non-bullying
+p0268,u368,"Pathetic, you should just quit.",bullying
+p0269,u369,Your positivity inspires everyone around you.,non-bullying
+p0270,u370,"Just disappear, nobody will miss you.",bullying
+p0271,u371,You are really talented and hardworking.,non-bullying
+p0272,u372,You're nothing but a failure.,bullying
+p0273,u373,You are really talented and hardworking.,non-bullying
+p0274,u374,Why are you always so dumb?,bullying
+p0275,u375,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0276,u376,"You’re such a loser, nobody likes you.",bullying
+p0277,u377,"That was an amazing performance, bravo!",non-bullying
+p0278,u378,"Nobody respects you, just stop.",bullying
+p0279,u379,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0280,u380,Why are you always so dumb?,bullying
+p0281,u381,"Nice work team, proud of you!",non-bullying
+p0282,u382,Why are you always so dumb?,bullying
+p0283,u383,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0284,u384,You're ugly and worthless.,bullying
+p0285,u385,Wishing you all the best in your exams.,non-bullying
+p0286,u386,You're ugly and worthless.,bullying
+p0287,u387,"Keep going, you’re doing amazing!",non-bullying
+p0288,u388,You're nothing but a failure.,bullying
+p0289,u389,"Great job on your project, well done!",non-bullying
+p0290,u390,"Just disappear, nobody will miss you.",bullying
+p0291,u391,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0292,u392,"You’re a joke, nobody cares about you.",bullying
+p0293,u393,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0294,u394,"Nobody respects you, just stop.",bullying
+p0295,u395,Wishing you all the best in your exams.,non-bullying
+p0296,u396,Why are you always so dumb?,bullying
+p0297,u397,"That was an amazing performance, bravo!",non-bullying
+p0298,u398,Nobody wants to be around you.,bullying
+p0299,u399,You are really talented and hardworking.,non-bullying
+p0300,u400,"Just disappear, nobody will miss you.",bullying
+p0301,u401,"Nice work team, proud of you!",non-bullying
+p0302,u402,"Nobody respects you, just stop.",bullying
+p0303,u403,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0304,u404,"You’re such a loser, nobody likes you.",bullying
+p0305,u405,You are really talented and hardworking.,non-bullying
+p0306,u406,Nobody wants to be around you.,bullying
+p0307,u407,Congrats on your success! Keep shining.,non-bullying
+p0308,u408,You're ugly and worthless.,bullying
+p0309,u409,Thanks for helping me yesterday!,non-bullying
+p0310,u410,"Nobody respects you, just stop.",bullying
+p0311,u411,Thanks for helping me yesterday!,non-bullying
+p0312,u412,You're ugly and worthless.,bullying
+p0313,u413,"That was an amazing performance, bravo!",non-bullying
+p0314,u414,You're nothing but a failure.,bullying
+p0315,u415,"That was an amazing performance, bravo!",non-bullying
+p0316,u416,You're ugly and worthless.,bullying
+p0317,u417,Congrats on your success! Keep shining.,non-bullying
+p0318,u418,Why are you always so dumb?,bullying
+p0319,u419,You are really talented and hardworking.,non-bullying
+p0320,u420,Nobody wants to be around you.,bullying
+p0321,u421,"Keep going, you’re doing amazing!",non-bullying
+p0322,u422,"You're annoying, everyone hates you.",bullying
+p0323,u423,"Great job on your project, well done!",non-bullying
+p0324,u424,"Pathetic, you should just quit.",bullying
+p0325,u425,Your positivity inspires everyone around you.,non-bullying
+p0326,u426,"Nobody respects you, just stop.",bullying
+p0327,u427,"Great job on your project, well done!",non-bullying
+p0328,u428,Why are you always so dumb?,bullying
+p0329,u429,"That was an amazing performance, bravo!",non-bullying
+p0330,u430,Why are you always so dumb?,bullying
+p0331,u431,Thanks for helping me yesterday!,non-bullying
+p0332,u432,"You’re such a loser, nobody likes you.",bullying
+p0333,u433,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0334,u434,"Just disappear, nobody will miss you.",bullying
+p0335,u435,Wishing you all the best in your exams.,non-bullying
+p0336,u436,Why are you always so dumb?,bullying
+p0337,u437,"Nice work team, proud of you!",non-bullying
+p0338,u438,"You’re such a loser, nobody likes you.",bullying
+p0339,u439,"Keep going, you’re doing amazing!",non-bullying
+p0340,u440,You're ugly and worthless.,bullying
+p0341,u441,"Keep going, you’re doing amazing!",non-bullying
+p0342,u442,Nobody wants to be around you.,bullying
+p0343,u443,Congrats on your success! Keep shining.,non-bullying
+p0344,u444,"Nobody respects you, just stop.",bullying
+p0345,u445,"That was an amazing performance, bravo!",non-bullying
+p0346,u446,You're nothing but a failure.,bullying
+p0347,u447,"Keep going, you’re doing amazing!",non-bullying
+p0348,u448,"You’re a joke, nobody cares about you.",bullying
+p0349,u449,Thanks for helping me yesterday!,non-bullying
+p0350,u450,"Pathetic, you should just quit.",bullying
+p0351,u451,"Great job on your project, well done!",non-bullying
+p0352,u452,"Nobody respects you, just stop.",bullying
+p0353,u453,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0354,u454,"You’re a joke, nobody cares about you.",bullying
+p0355,u455,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0356,u456,"Just disappear, nobody will miss you.",bullying
+p0357,u457,Congrats on your success! Keep shining.,non-bullying
+p0358,u458,"You're annoying, everyone hates you.",bullying
+p0359,u459,"Great job on your project, well done!",non-bullying
+p0360,u460,"Just disappear, nobody will miss you.",bullying
+p0361,u461,"Nice work team, proud of you!",non-bullying
+p0362,u462,Nobody wants to be around you.,bullying
+p0363,u463,"That was an amazing performance, bravo!",non-bullying
+p0364,u464,"Pathetic, you should just quit.",bullying
+p0365,u465,"Keep going, you’re doing amazing!",non-bullying
+p0366,u466,"Nobody respects you, just stop.",bullying
+p0367,u467,Your positivity inspires everyone around you.,non-bullying
+p0368,u468,You're ugly and worthless.,bullying
+p0369,u469,Congrats on your success! Keep shining.,non-bullying
+p0370,u470,"Nobody respects you, just stop.",bullying
+p0371,u471,Your positivity inspires everyone around you.,non-bullying
+p0372,u472,"You’re such a loser, nobody likes you.",bullying
+p0373,u473,"Nice work team, proud of you!",non-bullying
+p0374,u474,You're nothing but a failure.,bullying
+p0375,u475,You are really talented and hardworking.,non-bullying
+p0376,u476,"Nobody respects you, just stop.",bullying
+p0377,u477,Thanks for helping me yesterday!,non-bullying
+p0378,u478,You're ugly and worthless.,bullying
+p0379,u479,"That was an amazing performance, bravo!",non-bullying
+p0380,u480,"You’re such a loser, nobody likes you.",bullying
+p0381,u481,Your positivity inspires everyone around you.,non-bullying
+p0382,u482,"You're annoying, everyone hates you.",bullying
+p0383,u483,Congrats on your success! Keep shining.,non-bullying
+p0384,u484,"Just disappear, nobody will miss you.",bullying
+p0385,u485,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0386,u486,You're nothing but a failure.,bullying
+p0387,u487,"Nice work team, proud of you!",non-bullying
+p0388,u488,Nobody wants to be around you.,bullying
+p0389,u489,Congrats on your success! Keep shining.,non-bullying
+p0390,u490,"You're annoying, everyone hates you.",bullying
+p0391,u491,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0392,u492,"Nobody respects you, just stop.",bullying
+p0393,u493,Congrats on your success! Keep shining.,non-bullying
+p0394,u494,You're ugly and worthless.,bullying
+p0395,u495,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0396,u496,Why are you always so dumb?,bullying
+p0397,u497,"That was an amazing performance, bravo!",non-bullying
+p0398,u498,"You’re such a loser, nobody likes you.",bullying
+p0399,u499,"Nice work team, proud of you!",non-bullying
+p0400,u500,"You’re a joke, nobody cares about you.",bullying
+p0401,u501,"Great job on your project, well done!",non-bullying
+p0402,u502,Nobody wants to be around you.,bullying
+p0403,u503,"That was an amazing performance, bravo!",non-bullying
+p0404,u504,"Just disappear, nobody will miss you.",bullying
+p0405,u505,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0406,u506,"You’re a joke, nobody cares about you.",bullying
+p0407,u507,"That was an amazing performance, bravo!",non-bullying
+p0408,u508,Why are you always so dumb?,bullying
+p0409,u509,Wishing you all the best in your exams.,non-bullying
+p0410,u510,Why are you always so dumb?,bullying
+p0411,u511,"Keep going, you’re doing amazing!",non-bullying
+p0412,u512,"Pathetic, you should just quit.",bullying
+p0413,u513,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0414,u514,"Just disappear, nobody will miss you.",bullying
+p0415,u515,"Keep going, you’re doing amazing!",non-bullying
+p0416,u516,"You’re a joke, nobody cares about you.",bullying
+p0417,u517,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0418,u518,"Nobody respects you, just stop.",bullying
+p0419,u519,"Great job on your project, well done!",non-bullying
+p0420,u520,"You’re such a loser, nobody likes you.",bullying
+p0421,u521,Congrats on your success! Keep shining.,non-bullying
+p0422,u522,You're nothing but a failure.,bullying
+p0423,u523,"Keep going, you’re doing amazing!",non-bullying
+p0424,u524,"Just disappear, nobody will miss you.",bullying
+p0425,u525,"Nice work team, proud of you!",non-bullying
+p0426,u526,"Pathetic, you should just quit.",bullying
+p0427,u527,Thanks for helping me yesterday!,non-bullying
+p0428,u528,"Pathetic, you should just quit.",bullying
+p0429,u529,"Nice work team, proud of you!",non-bullying
+p0430,u530,Why are you always so dumb?,bullying
+p0431,u531,Congrats on your success! Keep shining.,non-bullying
+p0432,u532,"You're annoying, everyone hates you.",bullying
+p0433,u533,Thanks for helping me yesterday!,non-bullying
+p0434,u534,"Pathetic, you should just quit.",bullying
+p0435,u535,"Great job on your project, well done!",non-bullying
+p0436,u536,"Nobody respects you, just stop.",bullying
+p0437,u537,Your positivity inspires everyone around you.,non-bullying
+p0438,u538,"Pathetic, you should just quit.",bullying
+p0439,u539,Thanks for helping me yesterday!,non-bullying
+p0440,u540,"Pathetic, you should just quit.",bullying
+p0441,u541,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0442,u542,Why are you always so dumb?,bullying
+p0443,u543,"Nice work team, proud of you!",non-bullying
+p0444,u544,"Nobody respects you, just stop.",bullying
+p0445,u545,Congrats on your success! Keep shining.,non-bullying
+p0446,u546,"Just disappear, nobody will miss you.",bullying
+p0447,u547,"Nice work team, proud of you!",non-bullying
+p0448,u548,"Pathetic, you should just quit.",bullying
+p0449,u549,"Great job on your project, well done!",non-bullying
+p0450,u550,You're nothing but a failure.,bullying
+p0451,u551,"That was an amazing performance, bravo!",non-bullying
+p0452,u552,"You’re a joke, nobody cares about you.",bullying
+p0453,u553,"Keep going, you’re doing amazing!",non-bullying
+p0454,u554,"Pathetic, you should just quit.",bullying
+p0455,u555,Congrats on your success! Keep shining.,non-bullying
+p0456,u556,"Just disappear, nobody will miss you.",bullying
+p0457,u557,You are really talented and hardworking.,non-bullying
+p0458,u558,"Nobody respects you, just stop.",bullying
+p0459,u559,Wishing you all the best in your exams.,non-bullying
+p0460,u560,Why are you always so dumb?,bullying
+p0461,u561,"That was an amazing performance, bravo!",non-bullying
+p0462,u562,Why are you always so dumb?,bullying
+p0463,u563,"Keep going, you’re doing amazing!",non-bullying
+p0464,u564,"You’re such a loser, nobody likes you.",bullying
+p0465,u565,Thanks for helping me yesterday!,non-bullying
+p0466,u566,"You’re such a loser, nobody likes you.",bullying
+p0467,u567,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0468,u568,"Nobody respects you, just stop.",bullying
+p0469,u569,"That was an amazing performance, bravo!",non-bullying
+p0470,u570,"Pathetic, you should just quit.",bullying
+p0471,u571,"That was an amazing performance, bravo!",non-bullying
+p0472,u572,You're nothing but a failure.,bullying
+p0473,u573,"That was an amazing performance, bravo!",non-bullying
+p0474,u574,You're nothing but a failure.,bullying
+p0475,u575,"Nice work team, proud of you!",non-bullying
+p0476,u576,"You're annoying, everyone hates you.",bullying
+p0477,u577,Wishing you all the best in your exams.,non-bullying
+p0478,u578,Nobody wants to be around you.,bullying
+p0479,u579,"Great job on your project, well done!",non-bullying
+p0480,u580,You're nothing but a failure.,bullying
+p0481,u581,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0482,u582,"Just disappear, nobody will miss you.",bullying
+p0483,u583,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0484,u584,"Nobody respects you, just stop.",bullying
+p0485,u585,Wishing you all the best in your exams.,non-bullying
+p0486,u586,"You’re a joke, nobody cares about you.",bullying
+p0487,u587,Wishing you all the best in your exams.,non-bullying
+p0488,u588,"Pathetic, you should just quit.",bullying
+p0489,u589,Thanks for helping me yesterday!,non-bullying
+p0490,u590,You're ugly and worthless.,bullying
+p0491,u591,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0492,u592,You're nothing but a failure.,bullying
+p0493,u593,You are really talented and hardworking.,non-bullying
+p0494,u594,"Nobody respects you, just stop.",bullying
+p0495,u595,Congrats on your success! Keep shining.,non-bullying
+p0496,u596,"Just disappear, nobody will miss you.",bullying
+p0497,u597,Thanks for helping me yesterday!,non-bullying
+p0498,u598,Why are you always so dumb?,bullying
+p0499,u599,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0500,u600,"You're annoying, everyone hates you.",bullying
+p0501,u601,Congrats on your success! Keep shining.,non-bullying
+p0502,u602,"Just disappear, nobody will miss you.",bullying
+p0503,u603,You are really talented and hardworking.,non-bullying
+p0504,u604,"You’re a joke, nobody cares about you.",bullying
+p0505,u605,"Great job on your project, well done!",non-bullying
+p0506,u606,"You’re such a loser, nobody likes you.",bullying
+p0507,u607,Your positivity inspires everyone around you.,non-bullying
+p0508,u608,Why are you always so dumb?,bullying
+p0509,u609,"Nice work team, proud of you!",non-bullying
+p0510,u610,You're nothing but a failure.,bullying
+p0511,u611,"That was an amazing performance, bravo!",non-bullying
+p0512,u612,"Pathetic, you should just quit.",bullying
+p0513,u613,"Nice work team, proud of you!",non-bullying
+p0514,u614,"You’re such a loser, nobody likes you.",bullying
+p0515,u615,"That was an amazing performance, bravo!",non-bullying
+p0516,u616,"Pathetic, you should just quit.",bullying
+p0517,u617,Congrats on your success! Keep shining.,non-bullying
+p0518,u618,"You’re such a loser, nobody likes you.",bullying
+p0519,u619,"Keep going, you’re doing amazing!",non-bullying
+p0520,u620,You're nothing but a failure.,bullying
+p0521,u621,"Great job on your project, well done!",non-bullying
+p0522,u622,"Nobody respects you, just stop.",bullying
+p0523,u623,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0524,u624,You're ugly and worthless.,bullying
+p0525,u625,"Great job on your project, well done!",non-bullying
+p0526,u626,"You’re such a loser, nobody likes you.",bullying
+p0527,u627,Congrats on your success! Keep shining.,non-bullying
+p0528,u628,Nobody wants to be around you.,bullying
+p0529,u629,"Nice work team, proud of you!",non-bullying
+p0530,u630,"Nobody respects you, just stop.",bullying
+p0531,u631,Thanks for helping me yesterday!,non-bullying
+p0532,u632,"You’re a joke, nobody cares about you.",bullying
+p0533,u633,"Great job on your project, well done!",non-bullying
+p0534,u634,"Just disappear, nobody will miss you.",bullying
+p0535,u635,"That was an amazing performance, bravo!",non-bullying
+p0536,u636,"Just disappear, nobody will miss you.",bullying
+p0537,u637,You are really talented and hardworking.,non-bullying
+p0538,u638,"You’re such a loser, nobody likes you.",bullying
+p0539,u639,You are really talented and hardworking.,non-bullying
+p0540,u640,You're nothing but a failure.,bullying
+p0541,u641,Wishing you all the best in your exams.,non-bullying
+p0542,u642,Why are you always so dumb?,bullying
+p0543,u643,Your positivity inspires everyone around you.,non-bullying
+p0544,u644,Why are you always so dumb?,bullying
+p0545,u645,Your positivity inspires everyone around you.,non-bullying
+p0546,u646,"You're annoying, everyone hates you.",bullying
+p0547,u647,Your positivity inspires everyone around you.,non-bullying
+p0548,u648,You're nothing but a failure.,bullying
+p0549,u649,"That was an amazing performance, bravo!",non-bullying
+p0550,u650,"Pathetic, you should just quit.",bullying
+p0551,u651,"Keep going, you’re doing amazing!",non-bullying
+p0552,u652,You're nothing but a failure.,bullying
+p0553,u653,Thanks for helping me yesterday!,non-bullying
+p0554,u654,"You're annoying, everyone hates you.",bullying
+p0555,u655,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0556,u656,"You're annoying, everyone hates you.",bullying
+p0557,u657,Thanks for helping me yesterday!,non-bullying
+p0558,u658,You're nothing but a failure.,bullying
+p0559,u659,"That was an amazing performance, bravo!",non-bullying
+p0560,u660,"You’re a joke, nobody cares about you.",bullying
+p0561,u661,"That was an amazing performance, bravo!",non-bullying
+p0562,u662,"Pathetic, you should just quit.",bullying
+p0563,u663,"Great job on your project, well done!",non-bullying
+p0564,u664,"You’re a joke, nobody cares about you.",bullying
+p0565,u665,"Keep going, you’re doing amazing!",non-bullying
+p0566,u666,Nobody wants to be around you.,bullying
+p0567,u667,"Great job on your project, well done!",non-bullying
+p0568,u668,"You’re such a loser, nobody likes you.",bullying
+p0569,u669,Your positivity inspires everyone around you.,non-bullying
+p0570,u670,You're nothing but a failure.,bullying
+p0571,u671,Thanks for helping me yesterday!,non-bullying
+p0572,u672,"Nobody respects you, just stop.",bullying
+p0573,u673,"That was an amazing performance, bravo!",non-bullying
+p0574,u674,You're ugly and worthless.,bullying
+p0575,u675,"Keep going, you’re doing amazing!",non-bullying
+p0576,u676,Why are you always so dumb?,bullying
+p0577,u677,"Great job on your project, well done!",non-bullying
+p0578,u678,"Nobody respects you, just stop.",bullying
+p0579,u679,Thanks for helping me yesterday!,non-bullying
+p0580,u680,"You're annoying, everyone hates you.",bullying
+p0581,u681,"That was an amazing performance, bravo!",non-bullying
+p0582,u682,"Nobody respects you, just stop.",bullying
+p0583,u683,You are really talented and hardworking.,non-bullying
+p0584,u684,Nobody wants to be around you.,bullying
+p0585,u685,"Keep going, you’re doing amazing!",non-bullying
+p0586,u686,"Just disappear, nobody will miss you.",bullying
+p0587,u687,You are really talented and hardworking.,non-bullying
+p0588,u688,"Pathetic, you should just quit.",bullying
+p0589,u689,Congrats on your success! Keep shining.,non-bullying
+p0590,u690,Why are you always so dumb?,bullying
+p0591,u691,"That was an amazing performance, bravo!",non-bullying
+p0592,u692,"You’re a joke, nobody cares about you.",bullying
+p0593,u693,Congrats on your success! Keep shining.,non-bullying
+p0594,u694,"You’re such a loser, nobody likes you.",bullying
+p0595,u695,Wishing you all the best in your exams.,non-bullying
+p0596,u696,Why are you always so dumb?,bullying
+p0597,u697,"That was an amazing performance, bravo!",non-bullying
+p0598,u698,"You're annoying, everyone hates you.",bullying
+p0599,u699,"Nice work team, proud of you!",non-bullying
+p0600,u700,Nobody wants to be around you.,bullying
+p0601,u701,Wishing you all the best in your exams.,non-bullying
+p0602,u702,Why are you always so dumb?,bullying
+p0603,u703,Wishing you all the best in your exams.,non-bullying
+p0604,u704,Why are you always so dumb?,bullying
+p0605,u705,"Nice work team, proud of you!",non-bullying
+p0606,u706,"You’re such a loser, nobody likes you.",bullying
+p0607,u707,Congrats on your success! Keep shining.,non-bullying
+p0608,u708,Nobody wants to be around you.,bullying
+p0609,u709,Thanks for helping me yesterday!,non-bullying
+p0610,u710,"Just disappear, nobody will miss you.",bullying
+p0611,u711,"Nice work team, proud of you!",non-bullying
+p0612,u712,"You're annoying, everyone hates you.",bullying
+p0613,u713,Wishing you all the best in your exams.,non-bullying
+p0614,u714,"You’re such a loser, nobody likes you.",bullying
+p0615,u715,You are really talented and hardworking.,non-bullying
+p0616,u716,"You’re a joke, nobody cares about you.",bullying
+p0617,u717,"Great job on your project, well done!",non-bullying
+p0618,u718,"You’re such a loser, nobody likes you.",bullying
+p0619,u719,You are really talented and hardworking.,non-bullying
+p0620,u720,Why are you always so dumb?,bullying
+p0621,u721,Your positivity inspires everyone around you.,non-bullying
+p0622,u722,"You're annoying, everyone hates you.",bullying
+p0623,u723,Wishing you all the best in your exams.,non-bullying
+p0624,u724,"Pathetic, you should just quit.",bullying
+p0625,u725,"Great job on your project, well done!",non-bullying
+p0626,u726,"Just disappear, nobody will miss you.",bullying
+p0627,u727,"That was an amazing performance, bravo!",non-bullying
+p0628,u728,You're ugly and worthless.,bullying
+p0629,u729,"Keep going, you’re doing amazing!",non-bullying
+p0630,u730,"Nobody respects you, just stop.",bullying
+p0631,u731,Congrats on your success! Keep shining.,non-bullying
+p0632,u732,Nobody wants to be around you.,bullying
+p0633,u733,Thanks for helping me yesterday!,non-bullying
+p0634,u734,"You’re such a loser, nobody likes you.",bullying
+p0635,u735,"That was an amazing performance, bravo!",non-bullying
+p0636,u736,Why are you always so dumb?,bullying
+p0637,u737,Congrats on your success! Keep shining.,non-bullying
+p0638,u738,"You’re a joke, nobody cares about you.",bullying
+p0639,u739,Your positivity inspires everyone around you.,non-bullying
+p0640,u740,"You're annoying, everyone hates you.",bullying
+p0641,u741,Wishing you all the best in your exams.,non-bullying
+p0642,u742,Why are you always so dumb?,bullying
+p0643,u743,"Nice work team, proud of you!",non-bullying
+p0644,u744,You're ugly and worthless.,bullying
+p0645,u745,You are really talented and hardworking.,non-bullying
+p0646,u746,"Pathetic, you should just quit.",bullying
+p0647,u747,Wishing you all the best in your exams.,non-bullying
+p0648,u748,You're nothing but a failure.,bullying
+p0649,u749,"Nice work team, proud of you!",non-bullying
+p0650,u750,"Just disappear, nobody will miss you.",bullying
+p0651,u751,Wishing you all the best in your exams.,non-bullying
+p0652,u752,Why are you always so dumb?,bullying
+p0653,u753,Your positivity inspires everyone around you.,non-bullying
+p0654,u754,"You're annoying, everyone hates you.",bullying
+p0655,u755,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0656,u756,"You're annoying, everyone hates you.",bullying
+p0657,u757,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0658,u758,"You're annoying, everyone hates you.",bullying
+p0659,u759,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0660,u760,Nobody wants to be around you.,bullying
+p0661,u761,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0662,u762,"Just disappear, nobody will miss you.",bullying
+p0663,u763,"Keep going, you’re doing amazing!",non-bullying
+p0664,u764,Nobody wants to be around you.,bullying
+p0665,u765,Thanks for helping me yesterday!,non-bullying
+p0666,u766,"You’re a joke, nobody cares about you.",bullying
+p0667,u767,Thanks for helping me yesterday!,non-bullying
+p0668,u768,"You're annoying, everyone hates you.",bullying
+p0669,u769,"Nice work team, proud of you!",non-bullying
+p0670,u770,You're ugly and worthless.,bullying
+p0671,u771,Your positivity inspires everyone around you.,non-bullying
+p0672,u772,You're nothing but a failure.,bullying
+p0673,u773,"Keep going, you’re doing amazing!",non-bullying
+p0674,u774,"Pathetic, you should just quit.",bullying
+p0675,u775,Thanks for helping me yesterday!,non-bullying
+p0676,u776,Why are you always so dumb?,bullying
+p0677,u777,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0678,u778,Why are you always so dumb?,bullying
+p0679,u779,You are really talented and hardworking.,non-bullying
+p0680,u780,Why are you always so dumb?,bullying
+p0681,u781,Your positivity inspires everyone around you.,non-bullying
+p0682,u782,"Nobody respects you, just stop.",bullying
+p0683,u783,"Nice work team, proud of you!",non-bullying
+p0684,u784,Why are you always so dumb?,bullying
+p0685,u785,Your positivity inspires everyone around you.,non-bullying
+p0686,u786,Nobody wants to be around you.,bullying
+p0687,u787,"Keep going, you’re doing amazing!",non-bullying
+p0688,u788,"You’re a joke, nobody cares about you.",bullying
+p0689,u789,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0690,u790,You're nothing but a failure.,bullying
+p0691,u791,"Nice work team, proud of you!",non-bullying
+p0692,u792,"Just disappear, nobody will miss you.",bullying
+p0693,u793,"Nice work team, proud of you!",non-bullying
+p0694,u794,"Just disappear, nobody will miss you.",bullying
+p0695,u795,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0696,u796,"Nobody respects you, just stop.",bullying
+p0697,u797,"Keep going, you’re doing amazing!",non-bullying
+p0698,u798,"Nobody respects you, just stop.",bullying
+p0699,u799,Wishing you all the best in your exams.,non-bullying
+p0700,u800,"You’re such a loser, nobody likes you.",bullying
+p0701,u801,"That was an amazing performance, bravo!",non-bullying
+p0702,u802,"Nobody respects you, just stop.",bullying
+p0703,u803,Your positivity inspires everyone around you.,non-bullying
+p0704,u804,You're ugly and worthless.,bullying
+p0705,u805,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0706,u806,You're ugly and worthless.,bullying
+p0707,u807,Your positivity inspires everyone around you.,non-bullying
+p0708,u808,"You're annoying, everyone hates you.",bullying
+p0709,u809,Wishing you all the best in your exams.,non-bullying
+p0710,u810,Why are you always so dumb?,bullying
+p0711,u811,Wishing you all the best in your exams.,non-bullying
+p0712,u812,Why are you always so dumb?,bullying
+p0713,u813,Your positivity inspires everyone around you.,non-bullying
+p0714,u814,You're ugly and worthless.,bullying
+p0715,u815,Wishing you all the best in your exams.,non-bullying
+p0716,u816,You're ugly and worthless.,bullying
+p0717,u817,"Great job on your project, well done!",non-bullying
+p0718,u818,"Pathetic, you should just quit.",bullying
+p0719,u819,"That was an amazing performance, bravo!",non-bullying
+p0720,u820,Why are you always so dumb?,bullying
+p0721,u821,"Keep going, you’re doing amazing!",non-bullying
+p0722,u822,You're ugly and worthless.,bullying
+p0723,u823,Your positivity inspires everyone around you.,non-bullying
+p0724,u824,Why are you always so dumb?,bullying
+p0725,u825,"Great job on your project, well done!",non-bullying
+p0726,u826,"Nobody respects you, just stop.",bullying
+p0727,u827,Congrats on your success! Keep shining.,non-bullying
+p0728,u828,Nobody wants to be around you.,bullying
+p0729,u829,Thanks for helping me yesterday!,non-bullying
+p0730,u830,"Pathetic, you should just quit.",bullying
+p0731,u831,"Keep going, you’re doing amazing!",non-bullying
+p0732,u832,"You’re such a loser, nobody likes you.",bullying
+p0733,u833,Wishing you all the best in your exams.,non-bullying
+p0734,u834,"Just disappear, nobody will miss you.",bullying
+p0735,u835,Congrats on your success! Keep shining.,non-bullying
+p0736,u836,You're ugly and worthless.,bullying
+p0737,u837,"Nice work team, proud of you!",non-bullying
+p0738,u838,Nobody wants to be around you.,bullying
+p0739,u839,Congrats on your success! Keep shining.,non-bullying
+p0740,u840,"You're annoying, everyone hates you.",bullying
+p0741,u841,"Great job on your project, well done!",non-bullying
+p0742,u842,You're ugly and worthless.,bullying
+p0743,u843,"That was an amazing performance, bravo!",non-bullying
+p0744,u844,"You’re a joke, nobody cares about you.",bullying
+p0745,u845,"Keep going, you’re doing amazing!",non-bullying
+p0746,u846,"Nobody respects you, just stop.",bullying
+p0747,u847,Thanks for helping me yesterday!,non-bullying
+p0748,u848,"You're annoying, everyone hates you.",bullying
+p0749,u849,Thanks for helping me yesterday!,non-bullying
+p0750,u850,"You’re a joke, nobody cares about you.",bullying
+p0751,u851,Your positivity inspires everyone around you.,non-bullying
+p0752,u852,"You’re a joke, nobody cares about you.",bullying
+p0753,u853,Thanks for helping me yesterday!,non-bullying
+p0754,u854,You're nothing but a failure.,bullying
+p0755,u855,You are really talented and hardworking.,non-bullying
+p0756,u856,You're nothing but a failure.,bullying
+p0757,u857,"That was an amazing performance, bravo!",non-bullying
+p0758,u858,"You’re a joke, nobody cares about you.",bullying
+p0759,u859,"Keep going, you’re doing amazing!",non-bullying
+p0760,u860,Why are you always so dumb?,bullying
+p0761,u861,Congrats on your success! Keep shining.,non-bullying
+p0762,u862,You're nothing but a failure.,bullying
+p0763,u863,"That was an amazing performance, bravo!",non-bullying
+p0764,u864,"You’re a joke, nobody cares about you.",bullying
+p0765,u865,"Great job on your project, well done!",non-bullying
+p0766,u866,You're nothing but a failure.,bullying
+p0767,u867,Your positivity inspires everyone around you.,non-bullying
+p0768,u868,"You’re a joke, nobody cares about you.",bullying
+p0769,u869,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0770,u870,Why are you always so dumb?,bullying
+p0771,u871,Your positivity inspires everyone around you.,non-bullying
+p0772,u872,"Just disappear, nobody will miss you.",bullying
+p0773,u873,"Nice work team, proud of you!",non-bullying
+p0774,u874,"You’re such a loser, nobody likes you.",bullying
+p0775,u875,Your positivity inspires everyone around you.,non-bullying
+p0776,u876,"You're annoying, everyone hates you.",bullying
+p0777,u877,Thanks for helping me yesterday!,non-bullying
+p0778,u878,Why are you always so dumb?,bullying
+p0779,u879,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0780,u880,You're ugly and worthless.,bullying
+p0781,u881,Congrats on your success! Keep shining.,non-bullying
+p0782,u882,Nobody wants to be around you.,bullying
+p0783,u883,Your positivity inspires everyone around you.,non-bullying
+p0784,u884,"Nobody respects you, just stop.",bullying
+p0785,u885,Your positivity inspires everyone around you.,non-bullying
+p0786,u886,"Pathetic, you should just quit.",bullying
+p0787,u887,Your positivity inspires everyone around you.,non-bullying
+p0788,u888,"You’re such a loser, nobody likes you.",bullying
+p0789,u889,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0790,u890,"Nobody respects you, just stop.",bullying
+p0791,u891,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0792,u892,"Just disappear, nobody will miss you.",bullying
+p0793,u893,Thanks for helping me yesterday!,non-bullying
+p0794,u894,"You’re a joke, nobody cares about you.",bullying
+p0795,u895,"That was an amazing performance, bravo!",non-bullying
+p0796,u896,"You're annoying, everyone hates you.",bullying
+p0797,u897,Wishing you all the best in your exams.,non-bullying
+p0798,u898,"You're annoying, everyone hates you.",bullying
+p0799,u899,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0800,u900,Why are you always so dumb?,bullying
+p0801,u901,Congrats on your success! Keep shining.,non-bullying
+p0802,u902,"Pathetic, you should just quit.",bullying
+p0803,u903,"Great job on your project, well done!",non-bullying
+p0804,u904,"Just disappear, nobody will miss you.",bullying
+p0805,u905,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0806,u906,"Nobody respects you, just stop.",bullying
+p0807,u907,"Great job on your project, well done!",non-bullying
+p0808,u908,You're nothing but a failure.,bullying
+p0809,u909,"Great job on your project, well done!",non-bullying
+p0810,u910,"You’re such a loser, nobody likes you.",bullying
+p0811,u911,Congrats on your success! Keep shining.,non-bullying
+p0812,u912,You're ugly and worthless.,bullying
+p0813,u913,"That was an amazing performance, bravo!",non-bullying
+p0814,u914,"You’re such a loser, nobody likes you.",bullying
+p0815,u915,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0816,u916,Why are you always so dumb?,bullying
+p0817,u917,You are really talented and hardworking.,non-bullying
+p0818,u918,"Pathetic, you should just quit.",bullying
+p0819,u919,You are really talented and hardworking.,non-bullying
+p0820,u920,You're nothing but a failure.,bullying
+p0821,u921,"Nice work team, proud of you!",non-bullying
+p0822,u922,Nobody wants to be around you.,bullying
+p0823,u923,Congrats on your success! Keep shining.,non-bullying
+p0824,u924,"You’re such a loser, nobody likes you.",bullying
+p0825,u925,You are really talented and hardworking.,non-bullying
+p0826,u926,"You're annoying, everyone hates you.",bullying
+p0827,u927,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0828,u928,"Pathetic, you should just quit.",bullying
+p0829,u929,"Great job on your project, well done!",non-bullying
+p0830,u930,"Pathetic, you should just quit.",bullying
+p0831,u931,Your positivity inspires everyone around you.,non-bullying
+p0832,u932,You're ugly and worthless.,bullying
+p0833,u933,"Great job on your project, well done!",non-bullying
+p0834,u934,"You're annoying, everyone hates you.",bullying
+p0835,u935,You are really talented and hardworking.,non-bullying
+p0836,u936,Nobody wants to be around you.,bullying
+p0837,u937,Your positivity inspires everyone around you.,non-bullying
+p0838,u938,"Nobody respects you, just stop.",bullying
+p0839,u939,Congrats on your success! Keep shining.,non-bullying
+p0840,u940,"Nobody respects you, just stop.",bullying
+p0841,u941,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0842,u942,You're ugly and worthless.,bullying
+p0843,u943,Thanks for helping me yesterday!,non-bullying
+p0844,u944,Why are you always so dumb?,bullying
+p0845,u945,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0846,u946,You're ugly and worthless.,bullying
+p0847,u947,"Great job on your project, well done!",non-bullying
+p0848,u948,Why are you always so dumb?,bullying
+p0849,u949,"Great job on your project, well done!",non-bullying
+p0850,u950,You're ugly and worthless.,bullying
+p0851,u951,"That was an amazing performance, bravo!",non-bullying
+p0852,u952,Why are you always so dumb?,bullying
+p0853,u953,"Great job on your project, well done!",non-bullying
+p0854,u954,"Pathetic, you should just quit.",bullying
+p0855,u955,Congrats on your success! Keep shining.,non-bullying
+p0856,u956,"You’re a joke, nobody cares about you.",bullying
+p0857,u957,"Great job on your project, well done!",non-bullying
+p0858,u958,Nobody wants to be around you.,bullying
+p0859,u959,Your positivity inspires everyone around you.,non-bullying
+p0860,u960,Why are you always so dumb?,bullying
+p0861,u961,Wishing you all the best in your exams.,non-bullying
+p0862,u962,You're ugly and worthless.,bullying
+p0863,u963,"That was an amazing performance, bravo!",non-bullying
+p0864,u964,"You're annoying, everyone hates you.",bullying
+p0865,u965,Congrats on your success! Keep shining.,non-bullying
+p0866,u966,You're nothing but a failure.,bullying
+p0867,u967,"That was an amazing performance, bravo!",non-bullying
+p0868,u968,"You’re such a loser, nobody likes you.",bullying
+p0869,u969,"Keep going, you’re doing amazing!",non-bullying
+p0870,u970,"Nobody respects you, just stop.",bullying
+p0871,u971,"Nice work team, proud of you!",non-bullying
+p0872,u972,"You’re a joke, nobody cares about you.",bullying
+p0873,u973,"That was an amazing performance, bravo!",non-bullying
+p0874,u974,Why are you always so dumb?,bullying
+p0875,u975,"That was an amazing performance, bravo!",non-bullying
+p0876,u976,"Just disappear, nobody will miss you.",bullying
+p0877,u977,You are really talented and hardworking.,non-bullying
+p0878,u978,Nobody wants to be around you.,bullying
+p0879,u979,"That was an amazing performance, bravo!",non-bullying
+p0880,u980,"You're annoying, everyone hates you.",bullying
+p0881,u981,You are really talented and hardworking.,non-bullying
+p0882,u982,Nobody wants to be around you.,bullying
+p0883,u983,"That was an amazing performance, bravo!",non-bullying
+p0884,u984,Why are you always so dumb?,bullying
+p0885,u985,"Nice work team, proud of you!",non-bullying
+p0886,u986,"Nobody respects you, just stop.",bullying
+p0887,u987,"Great job on your project, well done!",non-bullying
+p0888,u988,"You’re a joke, nobody cares about you.",bullying
+p0889,u989,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0890,u990,"Pathetic, you should just quit.",bullying
+p0891,u991,Your positivity inspires everyone around you.,non-bullying
+p0892,u992,Nobody wants to be around you.,bullying
+p0893,u993,Your positivity inspires everyone around you.,non-bullying
+p0894,u994,You're ugly and worthless.,bullying
+p0895,u995,Your positivity inspires everyone around you.,non-bullying
+p0896,u996,Nobody wants to be around you.,bullying
+p0897,u997,You are really talented and hardworking.,non-bullying
+p0898,u998,Nobody wants to be around you.,bullying
+p0899,u999,Wishing you all the best in your exams.,non-bullying
+p0900,u1000,Why are you always so dumb?,bullying
+p0901,u1001,Your positivity inspires everyone around you.,non-bullying
+p0902,u1002,"You’re such a loser, nobody likes you.",bullying
+p0903,u1003,Wishing you all the best in your exams.,non-bullying
+p0904,u1004,"You’re such a loser, nobody likes you.",bullying
+p0905,u1005,"That was an amazing performance, bravo!",non-bullying
+p0906,u1006,"You’re a joke, nobody cares about you.",bullying
+p0907,u1007,Your positivity inspires everyone around you.,non-bullying
+p0908,u1008,Why are you always so dumb?,bullying
+p0909,u1009,"Keep going, you’re doing amazing!",non-bullying
+p0910,u1010,"You’re such a loser, nobody likes you.",bullying
+p0911,u1011,Congrats on your success! Keep shining.,non-bullying
+p0912,u1012,Nobody wants to be around you.,bullying
+p0913,u1013,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0914,u1014,"You’re a joke, nobody cares about you.",bullying
+p0915,u1015,"Great job on your project, well done!",non-bullying
+p0916,u1016,"Nobody respects you, just stop.",bullying
+p0917,u1017,"Keep going, you’re doing amazing!",non-bullying
+p0918,u1018,Why are you always so dumb?,bullying
+p0919,u1019,"That was an amazing performance, bravo!",non-bullying
+p0920,u1020,"Just disappear, nobody will miss you.",bullying
+p0921,u1021,"Keep going, you’re doing amazing!",non-bullying
+p0922,u1022,You're nothing but a failure.,bullying
+p0923,u1023,"That was an amazing performance, bravo!",non-bullying
+p0924,u1024,"You’re such a loser, nobody likes you.",bullying
+p0925,u1025,You are really talented and hardworking.,non-bullying
+p0926,u1026,"You’re a joke, nobody cares about you.",bullying
+p0927,u1027,Congrats on your success! Keep shining.,non-bullying
+p0928,u1028,Why are you always so dumb?,bullying
+p0929,u1029,Thanks for helping me yesterday!,non-bullying
+p0930,u1030,"Just disappear, nobody will miss you.",bullying
+p0931,u1031,Wishing you all the best in your exams.,non-bullying
+p0932,u1032,"You’re a joke, nobody cares about you.",bullying
+p0933,u1033,"Keep going, you’re doing amazing!",non-bullying
+p0934,u1034,Why are you always so dumb?,bullying
+p0935,u1035,Wishing you all the best in your exams.,non-bullying
+p0936,u1036,"You’re such a loser, nobody likes you.",bullying
+p0937,u1037,You are really talented and hardworking.,non-bullying
+p0938,u1038,You're nothing but a failure.,bullying
+p0939,u1039,"Keep going, you’re doing amazing!",non-bullying
+p0940,u1040,"Just disappear, nobody will miss you.",bullying
+p0941,u1041,You are really talented and hardworking.,non-bullying
+p0942,u1042,You're nothing but a failure.,bullying
+p0943,u1043,"Nice work team, proud of you!",non-bullying
+p0944,u1044,Why are you always so dumb?,bullying
+p0945,u1045,Congrats on your success! Keep shining.,non-bullying
+p0946,u1046,"Just disappear, nobody will miss you.",bullying
+p0947,u1047,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0948,u1048,You're nothing but a failure.,bullying
+p0949,u1049,Wishing you all the best in your exams.,non-bullying
+p0950,u1050,Nobody wants to be around you.,bullying
+p0951,u1051,Thanks for helping me yesterday!,non-bullying
+p0952,u1052,You're nothing but a failure.,bullying
+p0953,u1053,Your positivity inspires everyone around you.,non-bullying
+p0954,u1054,"You’re such a loser, nobody likes you.",bullying
+p0955,u1055,Your positivity inspires everyone around you.,non-bullying
+p0956,u1056,"Pathetic, you should just quit.",bullying
+p0957,u1057,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0958,u1058,You're nothing but a failure.,bullying
+p0959,u1059,Thanks for helping me yesterday!,non-bullying
+p0960,u1060,Nobody wants to be around you.,bullying
+p0961,u1061,You are really talented and hardworking.,non-bullying
+p0962,u1062,"Just disappear, nobody will miss you.",bullying
+p0963,u1063,Thanks for helping me yesterday!,non-bullying
+p0964,u1064,"You’re such a loser, nobody likes you.",bullying
+p0965,u1065,"Great job on your project, well done!",non-bullying
+p0966,u1066,"Just disappear, nobody will miss you.",bullying
+p0967,u1067,Thanks for helping me yesterday!,non-bullying
+p0968,u1068,"Just disappear, nobody will miss you.",bullying
+p0969,u1069,Your positivity inspires everyone around you.,non-bullying
+p0970,u1070,You're nothing but a failure.,bullying
+p0971,u1071,Congrats on your success! Keep shining.,non-bullying
+p0972,u1072,You're ugly and worthless.,bullying
+p0973,u1073,You are really talented and hardworking.,non-bullying
+p0974,u1074,You're ugly and worthless.,bullying
+p0975,u1075,"Nice work team, proud of you!",non-bullying
+p0976,u1076,"You're annoying, everyone hates you.",bullying
+p0977,u1077,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0978,u1078,"Just disappear, nobody will miss you.",bullying
+p0979,u1079,Congrats on your success! Keep shining.,non-bullying
+p0980,u1080,You're ugly and worthless.,bullying
+p0981,u1081,"That was an amazing performance, bravo!",non-bullying
+p0982,u1082,"You're annoying, everyone hates you.",bullying
+p0983,u1083,Thanks for helping me yesterday!,non-bullying
+p0984,u1084,"Pathetic, you should just quit.",bullying
+p0985,u1085,Wishing you all the best in your exams.,non-bullying
+p0986,u1086,"You're annoying, everyone hates you.",bullying
+p0987,u1087,Congrats on your success! Keep shining.,non-bullying
+p0988,u1088,You're ugly and worthless.,bullying
+p0989,u1089,"Keep going, you’re doing amazing!",non-bullying
+p0990,u1090,"You’re a joke, nobody cares about you.",bullying
+p0991,u1091,"That was an amazing performance, bravo!",non-bullying
+p0992,u1092,Nobody wants to be around you.,bullying
+p0993,u1093,"Great job on your project, well done!",non-bullying
+p0994,u1094,You're ugly and worthless.,bullying
+p0995,u1095,Wishing you all the best in your exams.,non-bullying
+p0996,u1096,"You’re such a loser, nobody likes you.",bullying
+p0997,u1097,"Nice work team, proud of you!",non-bullying
+p0998,u1098,Why are you always so dumb?,bullying
+p0999,u1099,Wishing you all the best in your exams.,non-bullying
+p1000,u1100,Why are you always so dumb?,bullying

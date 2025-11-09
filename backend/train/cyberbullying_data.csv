@@ -1,0 +1,31 @@
+post_id,user_id,text,label
+p0001,u101,Wishing you all the best in your exams.,non-bullying
+p0002,u102,"You’re a joke, nobody cares about you.",bullying
+p0003,u103,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0004,u104,"Just disappear, nobody will miss you.",bullying
+p0005,u105,Wishing you all the best in your exams.,non-bullying
+p0006,u106,"You’re such a loser, nobody likes you.",bullying
+p0007,u107,"Great job on your project, well done!",non-bullying
+p0008,u108,"You're annoying, everyone hates you.",bullying
+p0009,u109,Thanks for helping me yesterday!,non-bullying
+p0010,u110,"You’re a joke, nobody cares about you.",bullying
+p0011,u111,"Nice work team, proud of you!",non-bullying
+p0012,u112,You're ugly and worthless.,bullying
+p0013,u113,Congrats on your success! Keep shining.,non-bullying
+p0014,u114,"You’re a joke, nobody cares about you.",bullying
+p0015,u115,Congrats on your success! Keep shining.,non-bullying
+p0016,u116,Why are you always so dumb?,bullying
+p0017,u117,"Great job on your project, well done!",non-bullying
+p0018,u118,"Just disappear, nobody will miss you.",bullying
+p0019,u119,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0020,u120,Nobody wants to be around you.,bullying
+p0021,u121,Congrats on your success! Keep shining.,non-bullying
+p0022,u122,"You're annoying, everyone hates you.",bullying
+p0023,u123,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0024,u124,You're nothing but a failure.,bullying
+p0025,u125,"Happy birthday, hope you have a wonderful day!",non-bullying
+p0026,u126,"Nobody respects you, just stop.",bullying
+p0027,u127,"Nice work team, proud of you!",non-bullying
+p0028,u128,"You’re such a loser, nobody likes you.",bullying
+p0029,u129,"That was an amazing performance, bravo!",non-bullying
+
